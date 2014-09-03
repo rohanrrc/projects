@@ -7,6 +7,4 @@ Screenshots
 -----------
 
 
-<img src="screenshots/sc1.png" alt="Screenshot 1" width="20%"/>
-![Screenshot 1](screenshots/sc1.png)
-![Screenshot 2](screenshots/sc2.png) ![Screenshot 3](screenshots/sc3.png)
+<img src="screenshots/sc1.png" alt="Screenshot 1" width="30%"/><img src="screenshots/sc2.png" alt="Screenshot 2" width="30%"/><img src="screenshots/sc3.png" alt="Screenshot 3" width="30%"/>
