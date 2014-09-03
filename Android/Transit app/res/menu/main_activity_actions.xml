@@ -1,0 +1,12 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <!-- Settings, should always be in the overflow -->
+    <item android:id="@+id/action_refresh"
+          android:title="@string/refresh"
+          android:showAsAction="never" />
+        <item android:id="@+id/action_about"
+          android:title="@string/about"
+          android:showAsAction="never" />
+        <item android:id="@+id/action_reverse"
+          android:title="@string/reverse"
+          android:showAsAction="never" />
+</menu>

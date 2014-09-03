@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Transit Info</string>
+    <string name="card_description">Example card description.</string>
+    <string name="one">One</string>
+    <string name="refresh">Refresh</string>
+    <string name="reverse">Reverse Entries</string>
+    <string name="about">About</string>
+    <string name="two">Two</string>
+    <string name="three">Three</string>
+    <string name="four">Four</string>
+    <string name="header_one">Header One</string>
+    <string name="empty_section">I\'m an empty section</string>
+    <string name="header_three">Header Three</string>
+    <string name="info">Information</string>
+    <string name="author_person">Aidan Follestad</string>
+    <string name="author">Author</string>
+    <string name="five">Five</string>
+    <string name="header_two">Header Two</string>
+
+    <string-array name="tab_titles">
+        <item>Saved</item>
+        <item>Nearby</item>
+        <item>Settings</item>
+    </string-array>
+    
+    
+    <string name="agencies_prompt">Select Agency</string>
+    <string name="route_prompt">Select Route</string>
+    <string name="dir_prompt">Select Direction</string>
+    <string name="stop_prompt">Select Stop</string>
+ 
+    <string-array name="agencies">
+  <item>"San Francisco Muni"</item>
+ <item>"AC Transit"</item>
+<item>"Asheville Redefines Transit"</item>
+<item>"CMRT and Howard Transit"</item>
+<item>"California University of Pennsylvania"</item>
+<item>"Camarillo Area (CAT)"</item>
+<item>"Cape Cod Regional Transit Authority"</item>
+<item>"Chapel Hill Transit"</item>
+<item>"Charles River TMA - EZRide"</item>
+<item>"Charm City Circulator"</item>
+<item>"City College NYC"</item>
+<item>"City of Oxford"</item>
+<item>"Collegetown Shuttle"</item>
+<item>"CyRide"</item>
+<item>"DC Circulator"</item>
+<item>"Downtown Connection</item>
+<item>"Dumbarton Express"</item>
+<item>"East Carolina University</item>
+<item>"Emery-Go-Round"</item>
+<item>"Fairfax (CUE)"</item>
+<item>"Foothill Transit"</item>
+<item>"George Mason University"</item>
+<item>"Georgia College"</item>
+<item>"Glendale Beeline"</item>
+<item>"Gold Coast Transit"</item>
+<item>"Lasell College"</item>
+<item>"Los Angeles Metro"</item>
+<item>"Los Angeles Rail"</item>
+<item>"Loyola University Maryland"</item>
+<item>"MBTA"</item>
+<item>"Massachusetts Institute of Technology"</item>
+<item>"Moorpark Transit"</item>
+<item>"NYC MTA - Bronx"</item>
+<item>"NYC MTA - Brooklyn"</item>
+<item>"NYC MTA - Staten Island"</item>
+<item>"North County Transit District"</item>
+<item>"Omnitrans"</item>
+<item>"Palos Verdes Transit"</item>
+<item>"Pensacola Beach (SRIA)"</item>
+<item>"Portland Streetcar"</item>
+<item>"Prince Georges County"</item>
+<item>"RTC RIDE, RENO"</item>
+<item>"Radford Transit"</item>
+<item>"Roosevelt Island"</item>
+<item>"Rutgers Univ. Newark College Town Shuttle"</item>
+<item>"Rutgers University"</item>
+<item>"Seattle Streetcar"</item>
+<item>"Simi Valley (SVT)"</item>
+<item>"Societe de transport de Laval"</item>
+<item>"Societe de transport de Sherbrooke"</item>
+<item>"Temple University"</item>
+<item>"Thousand Oaks Transit (TOT)"</item>
+<item>"Thunder Bay"</item>
+<item>"Toronto Transit Commission</item>
+<item>"Unitrans ASUCD/City of Davis"</item>
+<item>"University of California San Francisco"</item>
+<item>"University of Maryland"</item>
+<item>"University of Minnesota"</item>
+<item>"Ventura Intercity (VISTA)"</item>
+<item>"Western Kentucky University"</item>
+<item>"York College"</item>
+    </string-array>
+<string name="enter_a_line">Enter a line</string>
+<string name="enter_stopid">Enter stopID</string>
+ 
+
+</resources>

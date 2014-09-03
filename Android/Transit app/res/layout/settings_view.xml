@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:minHeight="100px" >
+
+    <Spinner
+        android:id="@+id/spinner1"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_alignParentTop="true"
+         android:layout_marginLeft="50dp"
+        android:layout_marginRight="50dp"
+        android:layout_marginTop="30dp"
+        android:layout_centerHorizontal="true"
+        android:entries="@array/agencies"
+        android:prompt="@string/agencies_prompt"
+        tools:listitem="@android:layout/simple_spinner_dropdown_item" />
+
+    <Spinner
+        android:id="@+id/spinner2"
+        android:layout_width="fill_parent"
+        android:layout_height="50dp"
+        android:layout_below="@+id/spinner1"
+        android:layout_marginLeft="50dp"
+        android:layout_marginRight="50dp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="30dp"
+        android:prompt="@string/route_prompt" />
+    
+        <Spinner
+        android:id="@+id/spinner3"
+        android:layout_width="fill_parent"
+        android:layout_height="50dp"
+        android:layout_below="@+id/spinner2"
+        android:layout_marginLeft="50dp"
+        android:layout_marginRight="50dp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="30dp"
+        android:prompt="@string/dir_prompt" />
+        
+            <Spinner
+        android:id="@+id/spinner4"
+        android:layout_width="fill_parent"
+        android:layout_height="50dp"
+        android:layout_below="@+id/spinner3"
+        android:layout_marginLeft="50dp"
+        android:layout_marginRight="50dp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="30dp"
+        android:prompt="@string/stop_prompt" />
+
+    <Button
+        android:id="@+id/button2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/spinner4"
+        android:layout_alignParentLeft="true"
+        android:minEms="4"
+        android:layout_marginTop="30dp"
+        android:layout_marginLeft="50dp"
+        android:text="Delete" />
+    
+    <Button
+        android:id="@+id/button3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:minEms="5"
+        android:layout_alignBaseline="@+id/button2"
+        android:layout_marginBottom="30dp"
+        android:layout_toRightOf="@+id/button2"
+        android:text="Check" />
+    
+    <Button
+        android:id="@+id/button1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/button2"
+        android:layout_alignParentRight="true"
+        android:layout_marginBottom="30dp"
+        android:layout_marginRight="50dp"
+        android:layout_toRightOf="@+id/button3"
+        android:text="Add" />
+    
+
+
+</RelativeLayout>
