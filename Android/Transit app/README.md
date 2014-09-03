@@ -5,6 +5,7 @@ This is an android app that I made from scratch. It provides real-time GPS track
 
 Screenshots
 -----------
+<img src="screenshots/sc1.png" alt="Drawing" style="width: 200px;"/>
 ![Screenshot 1](screenshots/sc1.png =100x20)
 ![Screenshot 2](screenshots/sc2.png)
 ![Screenshot 3](screenshots/sc3.png)
